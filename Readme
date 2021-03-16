@@ -1,0 +1,8 @@
+ZOTAC-CART-PAYPALSTART 
+  this script will refresh your cart every 10 seconds or so and when your item comes into stock will auto launch Paypal express and alert you.
+
+ZOTAC-WISHLIST-ADDALLTOCART
+  this script will refresh your wishlist every 10 seconds or so and when an item comes into stock will auto add all to cart.
+  
+  
+Use a chrome extension like Tampermonkey to launch the scripts.
